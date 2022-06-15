@@ -1,11 +1,3 @@
-
-simple_shell/shell.h
-@Je4stine
-Je4stine Here we go
-Latest commit 6cd32cc 28 days ago
-History
-1 contributor
-33 lines (30 sloc) 854 Bytes
 #ifndef _SHELL_H_
 #define _SHELL_H_
 #include <stdio.h>
@@ -18,7 +10,8 @@ History
 #include <fcntl.h>
 #include <limits.h>
 #include <time.h>
-
+#include <stddef.h>
+#include <stdlib.h>
 extern char **environ;
 
 int _strcmp(char *str1, char *str2);
