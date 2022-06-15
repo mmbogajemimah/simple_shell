@@ -2,7 +2,7 @@
 
 This is a project is in collaboration between **Vanessa Alumasa** and **Jemimah Mmboga**. The shell is a simple UNIX command line interpreter that replicates functionalities of the simple shell (sh). It provides an interface between the user and the kernel and executes programs. Additionals functions are also provided.
 
-# Description
+# Description of the project
 
 The "Simple_shell" is a program that can be compiled and launched from the command line, where its main function is to execute commands read from the standard input. It contains some of the basic features and functions found in the various shell programs like Kernel commands and builtin commands.
 
